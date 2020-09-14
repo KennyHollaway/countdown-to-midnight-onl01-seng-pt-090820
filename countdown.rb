@@ -1,3 +1,4 @@
-def countdown
+def countdown(number)
+  while  
   
 end
